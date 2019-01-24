@@ -35,6 +35,7 @@ Sports | Rocks
 ------- | -------
 golf | coal
 cycling | diamond
+running | something sharp
 
 ~~strikethrough~~
 
